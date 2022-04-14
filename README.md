@@ -1,4 +1,4 @@
-# CP-lib
+# CP-Resources
 
 Some useful codes.
 
